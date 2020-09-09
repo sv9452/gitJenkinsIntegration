@@ -1,6 +1,9 @@
 This is for git integration with jenkins.
 First commit
 Second commit
+<<<<<<< HEAD
+Third commit
+=======
  local
 Third commit on local
 
@@ -9,4 +12,5 @@ second commit on master
  master
 commit into local branch
 second commit on local
-third commit on local
+
+
