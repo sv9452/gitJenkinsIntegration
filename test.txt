@@ -12,6 +12,11 @@ second commit on master
  master
 commit into local branch
 second commit on local
+<<<<<<< HEAD
 third commit on local
 >>>>>>> 2cc2bde380f333de9de1362ec3102fa4a2b82e89
 fourth commit on local
+=======
+
+
+>>>>>>> 63b1af012aa5d36dfb018a27ae27bec246529aec
