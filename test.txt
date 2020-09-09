@@ -9,3 +9,4 @@ second commit on master
  master
 commit into local branch
 second commit on local
+third commit on local
