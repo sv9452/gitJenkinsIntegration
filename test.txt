@@ -1,4 +1,16 @@
 This is for git integration with jenkins.
 First commit
 Second commit
+<<<<<<< HEAD
 Third commit
+=======
+ local
+Third commit on local
+
+commit into master
+second commit on master
+ master
+commit into local branch
+second commit on local
+third commit on local
+>>>>>>> 2cc2bde380f333de9de1362ec3102fa4a2b82e89
