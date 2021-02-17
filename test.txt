@@ -1,11 +1,4 @@
 This is for git integration with jenkins.
 First commit
 Second commit
-changes at 11:51
-For second trigger
-at 11:58
-at 12
-at 12:12
-at 12:13
-first commit using groovy script
-second commit using groovy script
+
